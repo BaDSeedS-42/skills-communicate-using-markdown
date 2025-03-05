@@ -7,3 +7,7 @@
 #Devi_lasciare_uno_spazio_dopo_#
 
 ![Diocan](https://preview.redd.it/2ix4zi2wuw581.jpg?width=640&crop=smart&auto=webp&s=8d681b1849543df03f3d8e34943cc88595fcf4a3)
+
+``` C
+printf("Hello world!");
+```
